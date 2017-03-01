@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/jakeninny/webpackTest/issues"
   },
-  "homepage": "https://github.com/jakeninny/webpackTest#readme"
+  "homepage": "https://github.com/jakeninny/webpackTest#readme",
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
 }
